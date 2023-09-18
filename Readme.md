@@ -2,23 +2,22 @@
 
 ## Live Link
 
-<h3>https://openin-app-assessment-pink.vercel.app</h3>
+<h3>https://openinapp-two.vercel.app/</h3>
 
 ## Video Preview
 
 
-
-https://github.com/paras-saxena11/OpeninApp-assessment/assets/77022754/f00c24a5-997e-4496-8e99-ddff11c84316
+https://screenrec.com/share/IxmAEfZqSX
 
 
 
 ## Images
-<img src="results/image1.png"  width="800" height="600">
-<img src="results/image2.png"  width="800" height="600">
-<img src="results/image3.png"  width="800" height="600">
-<img src="results/image4.png"  width="800" height="600">
-<img src="results/image5.png"  width="800" height="600">
-<img src="results/image6.png"  width="800" height="600">
+<img src="resultnew/image1.png"  width="800" height="600">
+<img src="resultnew/image2.png"  width="800" height="600">
+<img src="resultnew/image3.png"  width="800" height="600">
+<img src="resultnew/image4.png"  width="800" height="600">
+<img src="resultnew/image5.png"  width="800" height="600">
+
 
 <hr/>
 
