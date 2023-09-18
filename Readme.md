@@ -2,7 +2,7 @@
 
 ## Live Link
 
-<h3>https://openin-app-assessment-pink.vercel.app</h3>
+<h3>https://openinapp-two.vercel.app/</h3>
 
 ## Video Preview
 
